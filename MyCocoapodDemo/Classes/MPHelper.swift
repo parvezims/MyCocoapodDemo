@@ -19,4 +19,10 @@ class MPHelper {
         
         print("Pritnting from helper class")
     }
+    
+    
+    func printNewValue1() {
+        
+        print("Pritnting from helper class 1")
+    }
 }

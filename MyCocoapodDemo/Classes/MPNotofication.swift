@@ -15,6 +15,7 @@ public class MPNotofication {
     public func printNotificationName() {
         
         helper.printNewValue()
+        helper.printNewValue1()
         MPPrint(strValue: notificationName)
     }
     
