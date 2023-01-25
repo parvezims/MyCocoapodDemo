@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoapodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mohammad Parvez/MyCocoapodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mohammad Parvez": "parvez.ims@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mohammad Parvez/MyCocoapodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodDemo/Classes/**/*"
+}

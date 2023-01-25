@@ -26,7 +26,6 @@ TODO: This is first Cocoapod in my application just to test how pods are working
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mohammad Parvez' => 'parvez.ims@gmail.com' }
   s.source           = { :git => 'https://github.com/parvezims/MyCocoapodDemo.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   
   s.swift_version = '5.0'
   s.ios.deployment_target = '10.0'
